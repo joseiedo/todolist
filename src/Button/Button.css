@@ -1,0 +1,15 @@
+.btn-default {
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: #448aff;
+  transition: filter 0.3s, transform 0.3s;
+}
+
+.btn-default:hover {
+  cursor: pointer;
+  filter: brightness(1.1);
+}
